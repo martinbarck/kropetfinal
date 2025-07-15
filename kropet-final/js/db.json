@@ -1,0 +1,331 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Collar negro Deluxe",
+      "price": 1599.99,
+      "image": "assets/perro-collar.jpg",
+      "category": "perros",
+      "description": "Un collar resistente y con un diseño moderno para tu fiel compañero.",
+      "features": [
+        "Material: Nylon reforzado",
+        "Talles disponibles: S, M, L",
+        "Colores: Azul, Rojo, Verde"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cama Nube Suave",
+      "price": 2499.99,
+      "image": "assets/perro-cama.jpg",
+      "category": "perros",
+      "description": "El descanso perfecto para tu mascota en una cama ultra confortable y mullida.",
+      "features": [
+        "Relleno: Vellón siliconado hipoalergénico",
+        "Funda: Extraíble y lavable"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bolso transportador pequeño",
+      "price": 4999.99,
+      "image": "assets/perro-bolso.jpg",
+      "category": "perros",
+      "description": "Ligero y diseñado ergonómicamente para comodidad durante actividades con mascotas.",
+      "features": [
+        "Material: Tela Oxford",
+        "Dimensiones: 46cm x 28cm x 28cm"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Juguete Interactivo CatFun",
+      "price": 1999.99,
+      "image": "assets/gato-juguete.jpg",
+      "category": "gatos",
+      "description": "Mantiene a tu gato entretenido por horas estimulando su instinto cazador.",
+      "features": [
+        "Material: Plástico ABS no tóxico",
+        "Incluye: Plumas y cascabel"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Comedero Elevado Ergonómico",
+      "price": 1199.99,
+      "image": "assets/gato-plato.jpg",
+      "category": "gatos",
+      "description": "Mejora la postura y digestión de tu perro o gato al momento de comer.",
+      "features": [
+        "Material: Madera y acero inoxidable",
+        "Capacidad: 2 x 500ml"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Árbol para gatos Girasol",
+      "price": 3499.99,
+      "image": "assets/gato-carpa-zebra.jpg",
+      "category": "gatos",
+      "description": "Ideal para el tiempo de juego, rascado y descanso de su gato.",
+      "features": [
+        "Material: Terciopelo + cuerda de sisal",
+        "Peso: 1.3kg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Rueda Silenciosa para Hamster",
+      "price": 1899.99,
+      "image": "assets/hamster-rueda.jpg",
+      "category": "otras-mascotas",
+      "description": "Una rueda de ejercicio segura y súper silenciosa para tu pequeño roedor.",
+      "features": [
+        "Material: Plástico no tóxico",
+        "Diámetro: 20 cm",
+        "Diseño sin eje para mayor seguridad"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Portador de pájaros negro",
+      "price": 28999.99,
+      "image": "assets/ave-bolso.jpg",
+      "category": "otras-mascotas",
+      "description": "El Transportador de viaje es un portador liviano, ideal para paseos cortos con tu mascota",
+      "features": [
+        "Material: malla metálica",
+        "Diámetro: 40 cm",
+        "El frente completo se abre con cierre para facilitar el acceso."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Comida para Aves",
+      "price": 12500.99,
+      "image": "assets/ave-comida.jpg",
+      "category": "otras-mascotas",
+      "description": "Pastel picante de girasol y nueces Kaytee – 1 kg",
+      "features": [
+        "Ingredientes: Cacahuetes tostados, semillas de girasol negro, almendras, nueces, pecanas, gelatina y pimienta roja",
+        "Peso: 2.2 libras ≈ 1 kg",
+        "Compatible con comederos tipo plataforma, suet o cake"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Calentador para aves blanco",
+      "price": 28999.99,
+      "image": "assets/ave-calentador.jpg",
+      "category": "otras-mascotas",
+      "description": "Controlado mediante termostato para ayudar a mantener la temperatura corporal ideal.",
+      "features": [
+        "Material: Fijación sencilla a jaulas de alambre.",
+        "Diámetro: Mediano/Grande: 10.2 cm x 17.8 cm (10 vatios)",
+        "Eficiencia energética: disponible en modelos de 7 y 10 vatios."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Jaula para aves",
+      "price": 3999.99,
+      "image": "assets/ave-jaula.jpg",
+      "category": "otras-mascotas",
+      "description": "Una jaula espaciosa y segura para el confort de tu ave.",
+      "features": [
+        "Material: Acero con recubrimiento anticorrosivo",
+        "Dimensiones: 50cm x 40cm x 50cm",
+        "Incluye: Perchas y comedero"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Jaula para aves moderna",
+      "price": 4999.99,
+      "image": "assets/ave-jaula2.jpg",
+      "category": "otras-mascotas",
+      "description": "Diseño moderno y funcional para mantener a tu ave feliz.",
+      "features": [
+        "Material: Malla de acero inoxidable",
+        "Dimensiones: 60cm x 45cm x 55cm",
+        "Incluye: Ruedas para movilidad"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Árbol para gatos natural",
+      "price": 2999.99,
+      "image": "assets/gato-arbol.jpg",
+      "category": "gatos",
+      "description": "Un árbol natural para que tu gato juegue y descanse.",
+      "features": [
+        "Material: Madera y sisal",
+        "Altura: 120cm",
+        "Incluye: Plataformas y cuerda"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Árbol para gatos moderno",
+      "price": 3499.99,
+      "image": "assets/gato-arbol2.webp",
+      "category": "gatos",
+      "description": "Diseño elegante y resistente para el entretenimiento de tu gato.",
+      "features": [
+        "Material: MDF y felpa",
+        "Altura: 140cm",
+        "Incluye: Rascadores y hamaca"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cama para gatos gris",
+      "price": 1999.99,
+      "image": "assets/gato-cama-gris.jpg",
+      "category": "gatos",
+      "description": "Una cama suave y acogedora para el descanso de tu gato.",
+      "features": [
+        "Material: Felpa y espuma",
+        "Diámetro: 45cm",
+        "Funda lavable"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Carpa para gatos zebra",
+      "price": 2499.99,
+      "image": "assets/gato-carpa-zebra.jpg",
+      "category": "gatos",
+      "description": "Una carpa divertida con diseño de cebra para tu gato.",
+      "features": [
+        "Material: Terciopelo",
+        "Tamaño: 50cm x 50cm",
+        "Incluye: Cojín removible"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Comedero para gatos",
+      "price": 1299.99,
+      "image": "assets/gato-plato.jpg",
+      "category": "gatos",
+      "description": "Un comedero ergonómico para mejorar la alimentación de tu gato.",
+      "features": [
+        "Material: Cerámica",
+        "Capacidad: 300ml",
+        "Diseño antideslizante"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Rueda de ejercicio para gatos",
+      "price": 1799.99,
+      "image": "assets/gato-rueda-ejercicio.jpg",
+      "category": "gatos",
+      "description": "Una rueda de ejercicio segura para mantener a tu gato activo y en forma.",
+      "features": [
+        "Material: Plástico resistente",
+        "Diámetro: 50cm",
+        "Diseño silencioso"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Bolso transportador para perros",
+      "price": 5499.99,
+      "image": "assets/perro-bolso.jpg",
+      "category": "perros",
+      "description": "Un bolso ergonómico y ligero para transportar a tu perro con comodidad.",
+      "features": [
+        "Material: Tela Oxford",
+        "Dimensiones: 46cm x 28cm x 28cm",
+        "Acolchado ajustable"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Casa para perros celeste",
+      "price": 3999.99,
+      "image": "assets/perro-casa-celeste.jpg",
+      "category": "perros",
+      "description": "Una casa cómoda y resistente con diseño celeste para tu perro.",
+      "features": [
+        "Material: Plástico duradero",
+        "Dimensiones: 70cm x 60cm x 60cm",
+        "Fácil de limpiar"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Casa para perros rosa",
+      "price": 3999.99,
+      "image": "assets/perro-casa-rosa.jpg",
+      "category": "perros",
+      "description": "Una casa elegante y duradera con diseño rosa para tu perro.",
+      "features": [
+        "Material: Plástico reciclado",
+        "Dimensiones: 70cm x 60cm x 60cm",
+        "Ventilación integrada"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Cama para perros gris (XL)",
+      "price": 2999.99,
+      "image": "assets/perro-cama-gris.webp",
+      "category": "perros",
+      "description": "Una cama lavable y cómoda para perros medianos y grandes, ideal para descanso.",
+      "features": [
+        "Material: Tela y espuma",
+        "Tamaño: 105cm x 81cm x 18cm",
+        "Funda extraíble y lavable"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Carpa plegable rosa para perros",
+      "price": 3499.99,
+      "image": "assets/perro-carpa-rosa-colapsable.webp",
+      "category": "perros",
+      "description": "Una carpa plegable impermeable con colchoneta doble cara para tu perro.",
+      "features": [
+        "Material: Nailon impermeable",
+        "Color: Rosa",
+        "Fácil de transportar"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Alfombra refrescante para perros",
+      "price": 1499.99,
+      "image": "assets/perro-alfombra-agua.webp",
+      "category": "perros",
+      "description": "Alfombra refrescante de seda helada para el verano, resistente a arañazos.",
+      "features": [
+        "Material: Seda helada",
+        "Tamaño: 65cm x 90cm",
+        "Color: Gris claro"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Juan Pérez",
+      "rating": 4,
+      "text": "¡El collar es perfecto para mi perro! Muy resistente y cómodo."
+    },
+    {
+      "id": 2,
+      "author": "María Gómez",
+      "rating": 5,
+      "text": "La cama Nube Suave es increíble, mi perro duerme como rey."
+    },
+    {
+      "id": 3,
+      "author": "Carlos López",
+      "rating": 3,
+      "text": "El bolso transportador es práctico, pero un poco caro."
+    }
+  ]
+}
